@@ -20,8 +20,8 @@ TrafficLight NextLightClassic(TrafficLight light)
 #pragma warning restore IDE0066 // Convert switch statement to expression
 }
 
-TrafficLight NextLight(TrafficLight light) =>
-    light switch
+TrafficLight NextLight(TrafficLight light)
+    => light switch
     {
         Green => Amber,
         Amber => Red,
