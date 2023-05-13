@@ -175,13 +175,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskBasedAsynPattern", "Cha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskFoundations", "Chapter11\TaskFoundations\TaskFoundations.csproj", "{96A2B5AD-634D-427F-B4DB-8679272E658E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorHandling", "Chapter11\ErrorHandling\ErrorHandling.csproj", "{866D479C-C76B-4ADA-97CB-D8B7C7667E1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErrorHandling", "Chapter11\ErrorHandling\ErrorHandling.csproj", "{866D479C-C76B-4ADA-97CB-D8B7C7667E1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCancellation", "Chapter11\TaskCancellation\TaskCancellation.csproj", "{6D051BE7-BFD3-4CD2-B444-C7C38802A417}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskCancellation", "Chapter11\TaskCancellation\TaskCancellation.csproj", "{6D051BE7-BFD3-4CD2-B444-C7C38802A417}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncStreams", "Chapter11\AsyncStreams\AsyncStreams.csproj", "{6ADA4BCF-316C-426B-B274-A005EE9EA10F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncStreams", "Chapter11\AsyncStreams\AsyncStreams.csproj", "{6ADA4BCF-316C-426B-B274-A005EE9EA10F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncWindowsDesktopApp", "Chapter11\AsyncWindowsDesktopApp\AsyncWindowsDesktopApp.csproj", "{4DFE4EFE-EFD8-47C0-B528-BDA0CDCC080B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncWindowsDesktopApp", "Chapter11\AsyncWindowsDesktopApp\AsyncWindowsDesktopApp.csproj", "{4DFE4EFE-EFD8-47C0-B528-BDA0CDCC080B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter12", "Chapter12", "{7A756269-4C14-422A-8481-FE26683845AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

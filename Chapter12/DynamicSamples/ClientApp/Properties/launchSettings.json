@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ClientApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Barry\\OneDrive\\Source\\Repos\\ProfessionalCSharp2021\\Chapter12\\DynamicSamples\\CalculatorLib\\CalculatorLib.dll"
+    }
+  }
+}

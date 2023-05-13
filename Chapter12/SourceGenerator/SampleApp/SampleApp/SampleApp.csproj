@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Analyzer Include="C:\Users\Barry\OneDrive\Documents\ProfessionalCSharp2021-main\1_CS\ReflectionAndSourceGenerators\SourceGenerator\CodeGenerationSample\bin\Debug\netstandard2.0\CodeGenerationSample.dll"/>
+  </ItemGroup>
+</Project>
