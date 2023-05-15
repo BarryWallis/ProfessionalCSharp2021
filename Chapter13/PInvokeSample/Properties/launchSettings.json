@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PInvokeSample": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Barry\\OneDrive\\Source\\Repos\\ProfessionalCSharp2021\\test.txt\" \"C:\\Users\\Barry\\OneDrive\\Source\\Repos\\ProfessionalCSharp2021\\test1.txt\""
+    }
+  }
+}
