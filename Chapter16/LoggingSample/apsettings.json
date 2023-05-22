@@ -1,0 +1,16 @@
+{
+  "Logging": {
+    "Console": {
+      "LogLevel": {
+        "Default": "Information",
+        "LoggingSample.NetworkService": "Warning",
+        "LogginSample.Runner": "Warning"
+      }
+    },
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "LoggingSample.NetworkService": "Warning"
+    }
+  }
+}
